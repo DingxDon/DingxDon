@@ -11,7 +11,7 @@
 
 - 💡 I have hands-on experience with building comprehensive Android applications, Web Portals, Python Scripts for creation and modification of databases, utilizing RESTful APIs, database management, and incorporating modern frameworks.
 
-- 🤝 Open to collaborations on Native Android Projects (Java) and Web Developemnt Projects (Using  Djanjo for backend)
+- 🤝 Open to collaborations on Native Android Projects (Java) and Web Developemnt Projects (Using Angular and Django)
 
 - 📫 Reach me via:
   - Gmail: Sakshamjainpa@gmail.com
