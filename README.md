@@ -1,23 +1,31 @@
-# 👋 Hi, I'm @DingxDon
+Hi, I'm @DingxDon
 
-- 👨‍💻 I specialize in:
-  - **Languages:** Java, SQLite, Python, HTML, CSS, JavaScript.
-  - **Libraries:** REST API (Retrofit), Room, Glide, Picasso, Pandas, Numpy, Scrapy, Selenium, OpenApi.
-  - **Frameworks:** Angular, Bootstrap, Django.
-  - **IT Constructs:** DS & Algorithms, OOPS, OS, and DBMS.
-  - **Development Tools:** Git/GitHub, Firebase Authentication, Cloud Firestore, Android Studio, Microsoft Visual Studio.
+👨‍💻 I specialize in:
 
-- 🌱 Currently expanding my expertise in Full Stack Web Development.
+    Languages: Java, SQLite, Python, HTML, CSS, JavaScript
+    Libraries: REST API (Retrofit), Room, Glide, Picasso, Pandas, Numpy, Scrapy, Selenium, OpenApi
+    Frameworks: Angular, Bootstrap, Django
+    IT Constructs: DS & Algorithms, OOPS, OS, and DBMS
+    Development Tools: Git/GitHub, Firebase Authentication, Cloud Firestore, Android Studio, Microsoft Visual Studio
 
-- 💡 I have hands-on experience with building comprehensive Android applications, Web Portals, Python Scripts for creation and modification of databases, utilizing RESTful APIs, database management, and incorporating modern frameworks.
+🌱 Currently expanding my expertise in Full Stack Web Development.
 
-- 🤝 Open to collaborations on Native Android Projects (Java) and Web Developemnt Projects (Using Angular and Django)
+💡 I have hands-on experience in:
 
-- 📫 Reach me via:
-  - Gmail: Sakshamjainpa@gmail.com
+    Building comprehensive Android applications
+    Developing web portals
+    Writing Python scripts for database creation and modification
+    Utilizing RESTful APIs
+    Database management
+    Incorporating modern frameworks
 
+🤝 Open to collaborations on:
 
-<!---
-DingxDon/DingxDon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Native Android Projects (Java)
+    Web Development Projects (Using Angular and Django)
+
+📫 Reach me via:
+
+    Gmail: Sakshamjainpa@gmail.com
+
+Feel free to check out my GitHub profile for more details!
