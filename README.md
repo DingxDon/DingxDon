@@ -1,45 +1,50 @@
-Hi, I'm @DingxDon 👋
+# Hi, I'm @DingxDon 👋  
 
-👨‍💻 I specialize in:
+👨‍💻 **Frontend Engineer | Full Stack Enthusiast | Automation Builder**  
 
-Frontend Development: React.js, Next.js, JavaScript, TypeScript, Redux, Tailwind, Material UI
+---
 
-Backend & APIs: REST APIs, CMS workflows, Authentication
+## 🛠️ I Specialize In  
 
-Languages: Java, Python, HTML, CSS, SQL, JavaScript
+- **Frontend Development:** React.js, Next.js, JavaScript, TypeScript, Redux, Tailwind, Material UI  
+- **Backend & APIs:** REST APIs, CMS workflows, Authentication  
+- **Languages:** Java, Python, HTML, CSS, SQL, JavaScript  
+- **Frameworks & Libraries:** Django, Bootstrap, Selenium, Scrapy, OpenAPI  
+- **Tools:** Git/GitHub, Firebase, Jira, Figma, VS Code, Android Studio  
 
-Frameworks & Libraries: Django, Bootstrap, Selenium, Scrapy, OpenAPI
+---
 
-Tools: Git/GitHub, Firebase, Jira, Figma handoffs, VS Code, Android Studio
+## 💡 Hands-On Experience  
 
-🌱 Currently expanding my expertise in Full Stack Web Development — with a strong focus on frontend architecture, performance, and scalable design systems.
+- Building and maintaining **large-scale web platforms** (Next.js, React)  
+- Migrating and redesigning websites for **modern UI & improved maintainability**  
+- Creating **CMS pages** for marketing campaigns and forms  
+- Developing **collaborative learning platforms** with real-time features (group calls, chats, polls, whiteboards)  
+- Building **internal tools** like a Student Result Generation Tool  
+- Developing **Android apps** (Java + Firebase)  
+- Writing **Python scripts** for automation & database operations  
 
-💡 I have hands-on experience in:
+---
 
-Building and maintaining large-scale web platforms (Next.js, React)
+## 🚀 Recent Project  
 
-Migrating and redesigning websites for modern UI & improved maintainability
+### 🎥 [Google Meet Bot (Recorder + Transcriber)](https://github.com/recallai/google-meet-meeting-bot)  
+- Built with **Node.js, Puppeteer, Puppeteer-Stream, Whisper (Xenova Transformers.js)**  
+- Can **join Google Meet sessions, record audio/video, manage multiple meetings, and transcribe recordings offline**  
+- Recordings saved as `.mp4`, auto-converted to `.wav`, and transcribed to text  
 
-Creating CMS pages for marketing campaigns and forms
+---
 
-Developing collaborative learning platforms with real-time features (group calls, chats, polls, whiteboards)
+## 🤝 Open to Collaborations On  
 
-Building internal tools like a Student Result Generation Tool
+- **Frontend-focused projects** (React.js / Next.js)  
+- **Full-stack web applications** (Django + REST APIs)  
+- **Scalable platform development & internal tools**  
+- **AI-powered automation tools**  
 
-🚀 New Project: Developed a Google Meet Bot (Node.js + Puppeteer + Whisper) that can join meetings, record audio/video, manage multiple sessions, and transcribe recordings offline
+---
 
-Developing Android apps and Python scripts for automation & database operations
+## 📫 Reach Me  
 
-🤝 Open to collaborations on:
-
-Frontend-focused projects (React.js / Next.js)
-
-Full-stack web applications (Django)
-
-Scalable platform development & internal tools
-
-AI-powered automation tools
-
-📫 Reach me via:
-
-Email: sakshamjainpa@gmail.com
+- ✉️ **Email:** [sakshamjainpa@gmail.com](mailto:sakshamjainpa@gmail.com)  
+- 💻 **GitHub:** [@DingxDon](https://github.com/DingxDon)  
