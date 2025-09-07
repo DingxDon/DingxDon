@@ -1,31 +1,45 @@
-Hi, I'm @DingxDon
+Hi, I'm @DingxDon 👋
 
 👨‍💻 I specialize in:
 
-    Languages: Java, SQLite, Python, HTML, CSS, JavaScript
-    Libraries: REST API (Retrofit), Room, Glide, Picasso, Pandas, Numpy, Scrapy, Selenium, OpenApi
-    Frameworks: Angular, Bootstrap, Django
-    IT Constructs: DS & Algorithms, OOPS, OS, and DBMS
-    Development Tools: Git/GitHub, Firebase Authentication, Cloud Firestore, Android Studio, Microsoft Visual Studio
+Frontend Development: React.js, Next.js, JavaScript, TypeScript, Redux, Tailwind, Material UI
 
-🌱 Currently expanding my expertise in Full Stack Web Development.
+Backend & APIs: REST APIs, CMS workflows, Authentication
+
+Languages: Java, Python, HTML, CSS, SQL, JavaScript
+
+Frameworks & Libraries: Django, Bootstrap, Selenium, Scrapy, OpenAPI
+
+Tools: Git/GitHub, Firebase, Jira, Figma handoffs, VS Code, Android Studio
+
+🌱 Currently expanding my expertise in Full Stack Web Development — with a strong focus on frontend architecture, performance, and scalable design systems.
 
 💡 I have hands-on experience in:
 
-    Building comprehensive Android applications
-    Developing web portals
-    Writing Python scripts for database creation and modification
-    Utilizing RESTful APIs
-    Database management
-    Incorporating modern frameworks
+Building and maintaining large-scale web platforms (Next.js, React)
+
+Migrating and redesigning websites for modern UI & improved maintainability
+
+Creating CMS pages for marketing campaigns and forms
+
+Developing collaborative learning platforms with real-time features (group calls, chats, polls, whiteboards)
+
+Building internal tools like a Student Result Generation Tool
+
+🚀 New Project: Developed a Google Meet Bot (Node.js + Puppeteer + Whisper) that can join meetings, record audio/video, manage multiple sessions, and transcribe recordings offline
+
+Developing Android apps and Python scripts for automation & database operations
 
 🤝 Open to collaborations on:
 
-    Native Android Projects (Java)
-    Web Development Projects (Using Angular and Django)
+Frontend-focused projects (React.js / Next.js)
+
+Full-stack web applications (Django)
+
+Scalable platform development & internal tools
+
+AI-powered automation tools
 
 📫 Reach me via:
 
-    Gmail: Sakshamjainpa@gmail.com
-
-Feel free to check out my GitHub profile for more details!
+Email: sakshamjainpa@gmail.com
