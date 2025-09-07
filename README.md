@@ -28,7 +28,7 @@
 
 ## 🚀 Recent Project  
 
-### 🎥 [Google Meet Bot (Recorder + Transcriber)](https://github.com/recallai/google-meet-meeting-bot)  
+### 🎥 [Google Meet Bot (Recorder + Transcriber)](https://github.com/DingxDon/Recroder-Bot)  
 - Built with **Node.js, Puppeteer, Puppeteer-Stream, Whisper (Xenova Transformers.js)**  
 - Can **join Google Meet sessions, record audio/video, manage multiple meetings, and transcribe recordings offline**  
 - Recordings saved as `.mp4`, auto-converted to `.wav`, and transcribed to text  
